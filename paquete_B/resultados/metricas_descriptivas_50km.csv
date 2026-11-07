@@ -1,0 +1,5 @@
+red,nodos_con_aristas,aislados,aristas,densidad,grado_medio,grado_max,fuerza_media,clustering_medio,transitividad,componentes,gigante_nodos,gigante_pct,camino_promedio,diametro
+General,989,43,10609,0.0217,21.454,62,123.0172,0.5532,0.5872,4,981,0.9506,9.804,36
+El Nino,958,74,9543,0.0208,19.9228,62,0.8705,0.5446,0.576,4,950,0.9205,9.8064,36
+La Nina,681,351,3456,0.0149,10.1498,41,0.2347,0.4843,0.5181,13,576,0.5581,10.069,34
+Neutral,856,176,7205,0.0197,16.8341,58,0.4341,0.5147,0.557,6,844,0.8178,12.0019,50

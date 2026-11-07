@@ -1,0 +1,4 @@
+escenario,aristas_w1_media,aristas_w1_p05,aristas_w1_p95,aristas_w5_media,aristas_w5_p05,aristas_w5_p95,w_medio_media,w_medio_p05,w_medio_p95,suma_w_media,suma_w_p05,suma_w_p95
+Observada,10609.0,10609.0,10609.0,4649.0,4649.0,4649.0,5.734,5.734,5.734,60832.0,60832.0,60832.0
+Permutacion de anios,8288.43,8219.0,8354.0,2308.395,2270.8,2351.05,3.867,3.84,3.902,32049.64,31810.75,32258.2
+Permutacion de meses,6335.87,6268.95,6403.0,962.025,932.95,991.0,2.715,2.686,2.744,17203.68,17010.95,17414.5
