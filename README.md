@@ -175,7 +175,5 @@ Parece una contradicción, pero responden **objetivos distintos**:
 | Archivo | Qué es |
 |---|---|
 | [PIF-NS4DA-5.ipynb](PIF-NS4DA-5.ipynb) | Informe final (la versión oficial es la de Colab) |
-| [Grupo5_Final_NS4DA.pptx](Grupo5_Final_NS4DA.pptx) | Presentación de 10 diapositivas |
-| [paquete_C/guion_presentacion_final.md](paquete_C/guion_presentacion_final.md) | Guion del video (~4:30) y preguntas probables |
 | [paquete_C/notas_paquete_C.md](paquete_C/notas_paquete_C.md) | Resultados detallados del paquete C |
 | [paquete_B/notas_paquete_B.md](paquete_B/notas_paquete_B.md) | Resultados detallados del paquete B |
